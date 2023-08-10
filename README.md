@@ -3,7 +3,7 @@ Created an OOP based web app to manage the bills according to the period stayed 
 
 The app : 
 ```
-[tea.eu.pythonanywhere.com](http://tea.eu.pythonanywhere.com/)
+[tea.eu.pythonanywhere.com](https://tea.eu.pythonanywhere.com/)
 ```
 
 ### Description
