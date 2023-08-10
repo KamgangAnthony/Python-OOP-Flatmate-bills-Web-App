@@ -2,9 +2,9 @@
 Created an OOP based web app to manage the bills according to the period stayed between 2 flatmates living in the same house.
 
 The app : 
-```
-[tea.eu.pythonanywhere.com](https://tea.eu.pythonanywhere.com/)
-```
+
+- [tea.eu.pythonanywhere.com](https://tea.eu.pythonanywhere.com/)
+
 
 ### Description
 Created an OOP based web app to manage the bills according to the period stayed between 2 flatmates living in the same house.
