@@ -1,0 +1,20 @@
+h2 {
+    color : darkgray;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    width: 100%;
+    background-color: YellowGreen;
+    color: White;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 6px;
+}
+
+body {
+    background-color: GhostWhite;
+    padding: 20px;
+}
